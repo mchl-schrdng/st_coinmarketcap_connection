@@ -16,10 +16,10 @@ Install `coinmarketcap_connection` via pip:
 pip install coinmarketcap_connection
 ```
 
-### Configuration
+### 🔩 Configuration
 Set your CoinMarketCap API key in the secrets.toml file for Streamlit apps as described in the Streamlit documentation.
 
-### Usage
+### 🔍 Usage
 Import
 ```bash
 from coinmarketcap_connection import CoinMarketCapConnection
@@ -40,5 +40,5 @@ Fetch Historical Cryptocurrency Data
 ```bash
 historical_data = cmc_connection.fetch_historical_data(cryptocurrency_id=1, start_date='2023-01-01', end_date='2023-01-31')
 ```
-### Documentation
+### 📑 Documentation
 For detailed documentation, visit CoinMarketCap API documentation.
