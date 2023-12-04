@@ -1,5 +1,5 @@
 # CoinMarketCap Connection for Streamlit
-![Alt text](image.png)
+![Alt text](img/app.png)
 
 A Streamlit connection component to connect Streamlit apps to the CoinMarketCap API for cryptocurrency market data.
 
