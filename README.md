@@ -44,4 +44,4 @@ historical_data = cmc_connection.fetch_historical_data(cryptocurrency_id=1, star
 ```
 
 ### 📑 Documentation
-For detailed documentation, visit [CoinMarketCap API documentation](https://coinmarketcap.com/api/documentation/v1/)https://coinmarketcap.com/api/documentation/v1/.
+For detailed documentation, visit [CoinMarketCap API documentation](https://coinmarketcap.com/api/documentation/v1/).
