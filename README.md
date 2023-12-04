@@ -42,11 +42,3 @@ historical_data = cmc_connection.fetch_historical_data(cryptocurrency_id=1, star
 ```
 ### Documentation
 For detailed documentation, visit CoinMarketCap API documentation.
-
-### Supported Methods
-fetch_latest_data: Retrieve the latest market data for cryptocurrencies.  
-fetch_historical_data: Get historical market data for a specific cryptocurrency.
-
-⭐ Example Applications
-Cryptocurrency Dashboard: Create a dashboard to display real-time data on various cryptocurrencies.
-Historical Data Analysis: Analyze historical trends for investment strategies.
