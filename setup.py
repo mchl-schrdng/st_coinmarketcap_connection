@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='coinmarketcap_connection',
-    version='0.1.0',
+    version='0.1.1',
     author='Michaël Scherding',
     author_email='michael.Scherding@gmail.com',
     description='A Streamlit connector for the CoinMarketCap API.',
